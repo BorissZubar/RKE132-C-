@@ -1,0 +1,6 @@
+@orOperator_HostAddress = http://localhost:5267
+
+GET {{orOperator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

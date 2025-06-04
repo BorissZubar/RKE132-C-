@@ -1,0 +1,6 @@
+@logicalOperations_HostAddress = http://localhost:5000
+
+GET {{logicalOperations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

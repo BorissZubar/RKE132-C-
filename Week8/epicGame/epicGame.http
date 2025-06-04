@@ -1,0 +1,6 @@
+@epicGame_HostAddress = http://localhost:5233
+
+GET {{epicGame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

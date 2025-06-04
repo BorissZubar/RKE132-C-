@@ -1,0 +1,6 @@
+@oopAndFiles_HostAddress = http://localhost:5089
+
+GET {{oopAndFiles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
