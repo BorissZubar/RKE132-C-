@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-3", "Week-3\Week-3.csproj", "{39175373-0803-436F-BB18-AFF7D98EB633}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-3", "Week-3", "{C8567797-944A-44AF-82B5-FD83A67BD127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oddOrEven", "Week-3\oddOrEven\oddOrEven.csproj", "{0B322405-C901-47A2-828D-3A92CC3658FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "switchDay", "switchDay", "{8DB3E010-7CB8-4C73-B69C-C2BF3EAD2EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchDay", "Week-3\switchDay\switchDay\switchDay.csproj", "{26C66AA6-1B16-4221-A87D-60F833646094}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Новая папка", "Новая папка", "{451DFC1F-ACAF-4E5B-B672-018AFF70D0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifAndSwitch", "Week-3\Новая папка\ifAndSwitch\ifAndSwitch.csproj", "{00709D25-BCA4-42E7-A827-6852E33AD67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39175373-0803-436F-BB18-AFF7D98EB633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39175373-0803-436F-BB18-AFF7D98EB633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39175373-0803-436F-BB18-AFF7D98EB633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39175373-0803-436F-BB18-AFF7D98EB633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B322405-C901-47A2-828D-3A92CC3658FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B322405-C901-47A2-828D-3A92CC3658FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B322405-C901-47A2-828D-3A92CC3658FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B322405-C901-47A2-828D-3A92CC3658FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C66AA6-1B16-4221-A87D-60F833646094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C66AA6-1B16-4221-A87D-60F833646094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C66AA6-1B16-4221-A87D-60F833646094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C66AA6-1B16-4221-A87D-60F833646094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00709D25-BCA4-42E7-A827-6852E33AD67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00709D25-BCA4-42E7-A827-6852E33AD67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00709D25-BCA4-42E7-A827-6852E33AD67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00709D25-BCA4-42E7-A827-6852E33AD67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39175373-0803-436F-BB18-AFF7D98EB633} = {C8567797-944A-44AF-82B5-FD83A67BD127}
+		{0B322405-C901-47A2-828D-3A92CC3658FC} = {C8567797-944A-44AF-82B5-FD83A67BD127}
+		{8DB3E010-7CB8-4C73-B69C-C2BF3EAD2EC6} = {C8567797-944A-44AF-82B5-FD83A67BD127}
+		{26C66AA6-1B16-4221-A87D-60F833646094} = {8DB3E010-7CB8-4C73-B69C-C2BF3EAD2EC6}
+		{451DFC1F-ACAF-4E5B-B672-018AFF70D0B3} = {C8567797-944A-44AF-82B5-FD83A67BD127}
+		{00709D25-BCA4-42E7-A827-6852E33AD67B} = {451DFC1F-ACAF-4E5B-B672-018AFF70D0B3}
+	EndGlobalSection
+EndGlobal
